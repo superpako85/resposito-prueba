@@ -1,2 +1,2 @@
-# resposito-prueba
+# respositorio-prueba
 nuestro primer repositorio
